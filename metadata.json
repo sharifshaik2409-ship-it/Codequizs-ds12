@@ -1,0 +1,7 @@
+{
+  "name": "CODE RACE - High-Concurrency Competition Engine",
+  "description": "Secure quiz assessment platform with database-backed question bank, hidden answer keys, 30-minute minimum exam lock, anti-cheat 1-minute lockout protection, and central user leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
